@@ -1,0 +1,24 @@
+{
+  "name": "webpack-excercise",
+  "version": "1.0.0",
+  "description": "Using webpack to bundle JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alef-garrido/webpack-excercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alef-garrido/webpack-excercise/issues"
+  },
+  "homepage": "https://github.com/alef-garrido/webpack-excercise#readme",
+  "devDependencies": {
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.8.0"
+  }
+}
